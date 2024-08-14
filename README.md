@@ -1,5 +1,4 @@
-# Sentiment-Analysis
-Time Series analysis using News Sentiment Data
+# Time Series analysis using News Sentiment Data
 
 ## Project Overview
 This project investigates the relationship between historical stock data and real-time news sentiment to develop a predictive model for forecasting future stock prices. By combining quantitative analysis of stock market dynamics with qualitative assessment of news sentiment, the project aims to enhance predictive accuracy and provide valuable insights into market behavior.
